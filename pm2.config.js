@@ -1,7 +1,7 @@
 module.exports = {
   apps: [
     {
-      name: 'zoonotify',
+      name: 'zoonotify-web-server',
       script: './lib/bundle.js',
       exp_backoff_restart_delay: 500,
       out_file: process.env['ZN_LOG'],

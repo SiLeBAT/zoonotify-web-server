@@ -1,3 +1,3 @@
-# Zoonotify API
+# Zoonotify Web Server
 
-The Zoonotify API
+The Zoonotify Web Server for the SPA
